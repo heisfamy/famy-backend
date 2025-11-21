@@ -1,0 +1,25 @@
+{
+  "name": "afam-backend",
+  "version": "1.0.0",
+  "description": "backend for fullstack coursework",
+  "keywords": [
+    "express",
+    "node",
+    "javascript"
+  ],
+  "homepage": "https://github.com/heisfamy/famy-backend#readme",
+  "bugs": {
+    "url": "https://github.com/heisfamy/famy-backend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heisfamy/famy-backend.git"
+  },
+  "license": "ISC",
+  "author": "afam",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
