@@ -1,0 +1,12 @@
+# express-backend commit history
+
+1. Initial commit. added package.json
+2. feat: add express, mongodb, cors and dotenv dependencies
+3. feat: create Express server with basic setup and middleware
+4. feat: add MongoDB native client connection utility
+5. feat: add logger and static image middleware
+6. feat: add lessons seed data and seeding utility
+7. feat: implement all API routes (lessons, orders, search)
+8. feat: add lesson images and sources attribution
+9. docs: add comprehensive README and Postman collection
+10. chore: add render.yaml deployment configuration
