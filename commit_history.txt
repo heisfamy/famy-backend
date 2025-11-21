@@ -10,3 +10,5 @@
 8. feat: add lesson images and sources attribution
 9. docs: add comprehensive README and Postman collection
 10. chore: add render.yaml deployment configuration
+11. feat: add validation utilities and dev notes
+12. chore: add environment example file
