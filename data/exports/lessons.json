@@ -1,0 +1,110 @@
+[
+  {
+    "_id": "1",
+    "subject": "Mathematics",
+    "location": "London",
+    "price": 30,
+    "spaces": 10,
+    "image": "mathematics.jpg",
+    "icon": "fa-calculator"
+  },
+  {
+    "_id": "2",
+    "subject": "Physics",
+    "location": "Manchester",
+    "price": 35,
+    "spaces": 8,
+    "image": "physics.jpg",
+    "icon": "fa-atom"
+  },
+  {
+    "_id": "3",
+    "subject": "Chemistry",
+    "location": "Birmingham",
+    "price": 32,
+    "spaces": 12,
+    "image": "chemistry.jpg",
+    "icon": "fa-flask"
+  },
+  {
+    "_id": "4",
+    "subject": "Biology",
+    "location": "Leeds",
+    "price": 28,
+    "spaces": 15,
+    "image": "biology.jpg",
+    "icon": "fa-dna"
+  },
+  {
+    "_id": "5",
+    "subject": "Computer Science",
+    "location": "London",
+    "price": 40,
+    "spaces": 20,
+    "image": "computer-science.jpg",
+    "icon": "fa-laptop-code"
+  },
+  {
+    "_id": "6",
+    "subject": "English Literature",
+    "location": "Oxford",
+    "price": 25,
+    "spaces": 10,
+    "image": "english.jpg",
+    "icon": "fa-book"
+  },
+  {
+    "_id": "7",
+    "subject": "History",
+    "location": "Cambridge",
+    "price": 22,
+    "spaces": 8,
+    "image": "history.jpg",
+    "icon": "fa-landmark"
+  },
+  {
+    "_id": "8",
+    "subject": "Art & Design",
+    "location": "Brighton",
+    "price": 35,
+    "spaces": 6,
+    "image": "art.jpg",
+    "icon": "fa-palette"
+  },
+  {
+    "_id": "9",
+    "subject": "Music",
+    "location": "Liverpool",
+    "price": 38,
+    "spaces": 5,
+    "image": "music.jpg",
+    "icon": "fa-music"
+  },
+  {
+    "_id": "10",
+    "subject": "French",
+    "location": "London",
+    "price": 30,
+    "spaces": 12,
+    "image": "french.jpg",
+    "icon": "fa-language"
+  },
+  {
+    "_id": "11",
+    "subject": "Spanish",
+    "location": "Manchester",
+    "price": 28,
+    "spaces": 10,
+    "image": "spanish.jpg",
+    "icon": "fa-globe"
+  },
+  {
+    "_id": "12",
+    "subject": "Geography",
+    "location": "Bristol",
+    "price": 26,
+    "spaces": 14,
+    "image": "geography.jpg",
+    "icon": "fa-map-marked-alt"
+  }
+]

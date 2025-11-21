@@ -12,3 +12,4 @@
 10. chore: add render.yaml deployment configuration
 11. feat: add validation utilities and dev notes
 12. chore: add environment example file
+13. feat: add data export utility
